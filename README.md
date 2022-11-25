@@ -34,7 +34,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/twitter.png">
-  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
+  <img width="24" alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
 </picture>
 </a>
 
@@ -42,7 +42,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/linkedin.png">
-  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png">
+  <img width="24" alt="skaveesh | Linkedin" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png">
 </picture>
 </a>
 
@@ -50,7 +50,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/stackoverflow.png">
-  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png">
+  <img width="24" alt="skaveesh | Stackoverflow" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png">
 </picture>
 </a>
 
@@ -58,7 +58,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/medium.png">
-  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
+  <img width="24" alt="skaveesh | Medium" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
 </picture>
 </a>
 
