@@ -28,12 +28,20 @@
 <br/>
 
 ### Find me on:
-<a href="https://twitter.com/skaveesh"><img align="left" alt="skaveesh | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg"/></a>
-<a href="https://www.linkedin.com/in/skaveesh/"><img align="left" alt="skaveesh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/></a>
-<a href="https://skaveesh.medium.com/"><img align="left" alt="skaveesh | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg"/></a>
-<a href="https://stackoverflow.com/users/5410830/skaveesh"><img align="left" alt="skaveesh | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg"/></a>
 
 
+<a href="https://skaveesh.medium.com/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/twitter.png">
+  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
+</picture>
+</a>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+ 
+ <a href="https://www.linkedin.com/in/skaveesh/">![skaveesh | Linkedin](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png#gh-dark-mode-only)![skaveesh | Linkedin](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/linkedin.png#gh-light-mode-only) </a><a href="https://stackoverflow.com/users/5410830/skaveesh">![skaveesh | Stackoverflow](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png#gh-dark-mode-only)![skaveesh | Stackoverflow](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/stackoverflow.png#gh-light-mode-only)</a><a href="https://skaveesh.medium.com/">![skaveesh | Medium](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png#gh-dark-mode-only)![skaveesh | Medium](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/medium.png#gh-light-mode-only)</a>
 
 <br/>
 <br/>
