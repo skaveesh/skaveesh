@@ -30,18 +30,37 @@
 ### Find me on:
 
 
-<a href="https://skaveesh.medium.com/">
+<a href="https://twitter.com/skaveesh">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/twitter.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/twitter.png">
   <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/twitter.png">
 </picture>
 </a>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<a href="https://www.linkedin.com/in/skaveesh/">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/linkedin.png">
+  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png">
+</picture>
+</a>
 
- 
- <a href="https://www.linkedin.com/in/skaveesh/">![skaveesh | Linkedin](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/linkedin.png#gh-dark-mode-only)![skaveesh | Linkedin](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/linkedin.png#gh-light-mode-only) </a><a href="https://stackoverflow.com/users/5410830/skaveesh">![skaveesh | Stackoverflow](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png#gh-dark-mode-only)![skaveesh | Stackoverflow](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/stackoverflow.png#gh-light-mode-only)</a><a href="https://skaveesh.medium.com/">![skaveesh | Medium](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png#gh-dark-mode-only)![skaveesh | Medium](https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/medium.png#gh-light-mode-only)</a>
+<a href="https://stackoverflow.com/users/5410830/skaveesh">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/stackoverflow.png">
+  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/stackoverflow.png">
+</picture>
+</a>
+
+<a href="https://skaveesh.medium.com/">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/light/medium.png">
+  <img alt="skaveesh | Twitter" src="https://github.com/skaveesh/skaveesh/blob/main/resource/icon/dark/medium.png">
+</picture>
+</a>
 
 <br/>
 <br/>
